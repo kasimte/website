@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: HayanMind
 description: Towards a multilingual one
+show_downloads: false
+google_analytics: UA-102556724-1
