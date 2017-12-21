@@ -1,6 +1,7 @@
 ## What We Do
 We create Mimiking app for accelerating language learning process based on listen-and-repeat, so called shadowing.
 
+[![Mimiking Promotion Video](https://img.youtube.com/vi/oVErk5OiLf8/0.jpg)](https://www.youtube.com/watch?v=oVErk5OiLf8)
 - iOS: [Link to App Store](https://appsto.re/kr/OjEjjb.i)
 - Android: [Link to Google Play](https://goo.gl/9dvE6r)
 
