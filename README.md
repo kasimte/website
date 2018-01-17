@@ -1,12 +1,16 @@
 ## What We Do
-We create Mimiking app for accelerating language learning process based on listen-and-repeat, so called shadowing.
+### Mimiking
+- Mimiking app provides the audio-focused language learning service based on the intensive listen-and-repeat training.
 
 [![Mimiking Promotion Video](https://img.youtube.com/vi/oVErk5OiLf8/0.jpg)](https://www.youtube.com/watch?v=oVErk5OiLf8)
-- iOS: [Link to App Store](https://appsto.re/kr/OjEjjb.i)
-- Android: [Link to Google Play](https://goo.gl/9dvE6r)
+- iOS: [Link to App Store](https://bit.ly/mimiking-ios-app)
+- Android: [Link to Google Play](http://bit.ly/mimiking-android-app)
+
+### Side Projects
+- React Enlightenment in Korean: [https://hayanmind.gitbooks.io/react-enlightenment-in-korean](https://hayanmind.gitbooks.io/react-enlightenment-in-korean)
 
 ## Who We Are
-HayanMind Inc. started by three KAIST graduate students in South Korea. We basically work remotely and get paid based on minutes spent on this project.
+HayanMind Inc. is a startup founded by three researchers from KAIST in South Korea.
 
 ## Recruitment
 ### Developers
@@ -16,4 +20,4 @@ HayanMind Inc. started by three KAIST graduate students in South Korea. We basic
 - If you consider yourself as a person who can create stories for our Mimiking app, you are eligible for our story creator.
 
 ## Contact
-Please drop an email to Jeungmin Oh (CEO, jmoh@hayanmind.com) if you have any inquiry.
+Please drop an email to Jeungmin Oh (CEO, [jmoh@hayanmind.com](mailto:jmoh@hayanmind.com)) if you have any inquiry.
