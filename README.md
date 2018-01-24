@@ -1,6 +1,6 @@
 ## What We Do
 ### Mimiking
-- Mimiking app provides the audio-focused language learning service based on the intensive listen-and-repeat training.
+- The Mimiking app provides an audio-focused language learning service based on intensive listen-and-repeat training.
 
 [![Mimiking Promotion Video](https://img.youtube.com/vi/oVErk5OiLf8/0.jpg)](https://www.youtube.com/watch?v=oVErk5OiLf8)
 - iOS: [Link to App Store](https://bit.ly/mimiking-ios-app)
@@ -14,10 +14,10 @@ HayanMind Inc. is a startup founded by three researchers from KAIST in South Kor
 
 ## Recruitment
 ### Developers
-- Our product is mostly based on React Native (JavaScript). We are also recruiting iOS/Android develoeprs who are willing to learn React Native.
+- Our product is mostly based on React Native (JavaScript). We are also recruiting iOS/Android developers who are willing to learn React Native.
 
 ### Story Creators
-- If you consider yourself as a person who can create stories for our Mimiking app, you are eligible for our story creator.
+- If you consider yourself a person who can create stories for our Mimiking app, you are eligible to be one of our story creators.
 
 ## Contact
 Please drop an email to Jeungmin Oh (CEO, [jmoh@hayanmind.com](mailto:jmoh@hayanmind.com)) if you have any inquiry.
